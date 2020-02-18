@@ -1,0 +1,11 @@
+C:\Users\sailo\source\repos\Generic\Generic\bin\Debug\netcoreapp2.2\Generic.deps.json
+C:\Users\sailo\source\repos\Generic\Generic\bin\Debug\netcoreapp2.2\Generic.runtimeconfig.json
+C:\Users\sailo\source\repos\Generic\Generic\bin\Debug\netcoreapp2.2\Generic.runtimeconfig.dev.json
+C:\Users\sailo\source\repos\Generic\Generic\bin\Debug\netcoreapp2.2\Generic.dll
+C:\Users\sailo\source\repos\Generic\Generic\bin\Debug\netcoreapp2.2\Generic.pdb
+C:\Users\sailo\source\repos\Generic\Generic\obj\Debug\netcoreapp2.2\Generic.csprojAssemblyReference.cache
+C:\Users\sailo\source\repos\Generic\Generic\obj\Debug\netcoreapp2.2\Generic.csproj.CoreCompileInputs.cache
+C:\Users\sailo\source\repos\Generic\Generic\obj\Debug\netcoreapp2.2\Generic.AssemblyInfoInputs.cache
+C:\Users\sailo\source\repos\Generic\Generic\obj\Debug\netcoreapp2.2\Generic.AssemblyInfo.cs
+C:\Users\sailo\source\repos\Generic\Generic\obj\Debug\netcoreapp2.2\Generic.dll
+C:\Users\sailo\source\repos\Generic\Generic\obj\Debug\netcoreapp2.2\Generic.pdb
