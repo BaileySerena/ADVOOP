@@ -1,0 +1,7 @@
+C:\Users\sailo\source\repos\lamdalinq\lamdalinq\bin\Debug\lamdalinq.exe.config
+C:\Users\sailo\source\repos\lamdalinq\lamdalinq\bin\Debug\lamdalinq.exe
+C:\Users\sailo\source\repos\lamdalinq\lamdalinq\bin\Debug\lamdalinq.pdb
+C:\Users\sailo\source\repos\lamdalinq\lamdalinq\obj\Debug\lamdalinq.csprojAssemblyReference.cache
+C:\Users\sailo\source\repos\lamdalinq\lamdalinq\obj\Debug\lamdalinq.csproj.CoreCompileInputs.cache
+C:\Users\sailo\source\repos\lamdalinq\lamdalinq\obj\Debug\lamdalinq.exe
+C:\Users\sailo\source\repos\lamdalinq\lamdalinq\obj\Debug\lamdalinq.pdb
